@@ -1,4 +1,5 @@
 ## Hi there 👋
+### My name is Alverto Ortega-Garcia :) A Full Stack Web Developer who specializes on the Front End client side of the Web. I enjoyg beautifying User Interfaces while ensuring a pleasant User Experience.
 
 <!--
 **Alverto-Ortega-Garcia/Alverto-Ortega-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an E-commerce Website
+- 🌱 I’m currently learning deep Web Architecture, SVG, and Advanced React Concepts
+- 📫 How to reach me: https://www.linkedin.com/in/alverto-ortega-garcia/
+- ⚡ Fun fact: I can do lots of Pushups, lots of them :D
