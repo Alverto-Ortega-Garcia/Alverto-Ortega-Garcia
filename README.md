@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Alverto Ortega-Garcia :) A Full Stack Web Developer who specializes on the Front End client side of the Web. I enjoyg beautifying User Interfaces while ensuring a pleasant User Experience.
+### My name is Alverto Ortega-Garcia :) A Full Stack Web Developer who specializes in the Front-End client side of the Web. I enjoy beautifying User Interfaces while ensuring a pleasant User Experience.
 
 <!--
 **Alverto-Ortega-Garcia/Alverto-Ortega-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
